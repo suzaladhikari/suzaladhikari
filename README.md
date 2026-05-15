@@ -2,4 +2,4 @@
 
 Currently building AI/ML and cybersecurity projects focused on federated learning and network intrusion detection.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sujaladhikari3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sujaladhikari3/)
