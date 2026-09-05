@@ -3,7 +3,7 @@ Investigating federated learning for privacy-preserving network intrusion detect
 specifically how aggregation algorithms like FedNova address minority silo failure
 under non-IID data distributions.
 
-Currently building: Clarity, a volatility forecasting pipeline (GARCH vs. LSTM)
+Currently building: Testing between Decoder-only Transformer using RMSNorm, RoPE, and LayerNorm 
 Open to: Fall 2026 ML/AI internships and research collaborations
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/sujaladhikari3/)
