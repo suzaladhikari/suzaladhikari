@@ -12,5 +12,6 @@ How aggregation algorithms like FedNova handle minority silo failure under
 non-IID data in privacy-preserving intrusion detection.
 
 **Open to:** Summer 2027 ML/AI and backend/infrastructure internships, and research collaborations
+
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/sujaladhikari3/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0988-1376)
